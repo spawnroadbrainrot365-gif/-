@@ -1,0 +1,6 @@
+Tokens format:
+email:pass:token
+email:pass:token
+email:pass:token
+email:pass:token
+...
